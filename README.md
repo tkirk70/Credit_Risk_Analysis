@@ -1,4 +1,4 @@
-# Credit_Risk_Analysis :globe_with_meridians: :house_with_garden:
+# Credit_Risk_Analysis :house_with_garden:
 OSU Module 17 Challenge
 
 The report should contain the following:
