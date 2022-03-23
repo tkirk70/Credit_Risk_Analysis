@@ -1,5 +1,6 @@
 # Credit_Risk_Analysis :house_with_garden:
-OSU Module 17 Challenge
+
+## OSU Module 17 Challenge - Supervised Machine Learning
 
 
 Overview of the analysis: Explain the purpose of this analysis.
