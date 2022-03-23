@@ -1,7 +1,6 @@
 # Credit_Risk_Analysis :house_with_garden:
 OSU Module 17 Challenge
 
-The report should contain the following:
 
 Overview of the analysis: Explain the purpose of this analysis.
 
