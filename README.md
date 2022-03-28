@@ -14,9 +14,14 @@ Overview of the analysis: A dataset with many contributing factors will be broke
 
 Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
-  *
-  *
-  *
+  * Random Oversampling
+  ![](Resources/random_over.PNG)
+  * SMOTE
+  ![](Resources/smote.PNG)
+  * Random Undersampling
+  ![](Resources/under.PNG)
+  * Combination
+  ![](Resources/combo.PNG)
 
 Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
