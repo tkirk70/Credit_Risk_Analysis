@@ -30,6 +30,6 @@ Results: Using bulleted lists, describe the balanced accuracy scores and the pre
   ![](Resources/een.PNG)
 Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
-  *
-  *
-  *
+  * Both oversampling techniques resulted in similar results in accuracy - 64.3 for Random and 66.3% for Smote.
+  * Undersampling didn't make sense for our dataset and resulted in lower accuracy - 54.4%.
+  * For the ensemble models, no single feature category was greater than single digits.  Reducing the number of features might lead to a more accurate predicter of loan status.
